@@ -1,0 +1,79 @@
+var1	var2	t	p
+profit_jan	profit_feb	-0.48672683867331845	0.6289237223735549	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_jan	profit_mar	-1.905395392664721	0.06342936138205953	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_jan	profit_apr	-2.0682439034934794	0.04466525987394671	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jan	profit_may	-2.6750828691790685	0.010524652815530522	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jan	profit_jun	-2.989368108165129	0.0046089791452341745	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jan	profit_jul	-3.0961086915755405	0.003445167772923257	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jan	profit_aug	-3.0463609810513104	0.00394815664895548	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jan	profit_sep	-2.360254723228677	0.022868968616821993	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jan	profit_oct	-0.7693115042044992	0.445913862359995	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_jan	profit_nov	0.15132460899773081	0.8804273766935762	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_jan	profit_dec	-1.71799921348856	0.09299093853920729	p > 0.05	Fail to reject the null hypothesis, the means are equal
+
+profit_feb	profit_mar	-1.740126709366726	0.0889901428531074	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_feb	profit_apr	-1.9126774191875338	0.062464682859066756	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_feb	profit_may	-2.41221290345264	0.020195428723034092	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_feb	profit_jun	-2.6900712819670374	0.010129527678128821	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_feb	profit_jul	-2.8677170713874203	0.006380877853374618	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_feb	profit_aug	-2.8255930286416735	0.0071299462338571375	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_feb	profit_sep	-2.004341435531119	0.05135737406144989	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_feb	profit_oct	-0.7162610050222904	0.4777023592682198	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_feb	profit_nov	0.4588468622318123	0.6486551405069128	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_feb	profit_dec	-1.6770192228160752	0.10079486290510288	p > 0.05	Fail to reject the null hypothesis, the means are equal
+
+profit_mar	profit_apr	-1.7411321230817314	0.08881181952209789	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_mar	profit_may	-2.4835234759137803	0.016985523032639616	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_mar	profit_jun	-2.7874728688771264	0.007877448266781741	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_mar	profit_jul	-2.9749420004936007	0.0047919801866540875	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_mar	profit_aug	-2.906087647082274	0.005762979822996556	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_mar	profit_sep	-1.9189871176767743	0.06163899575644978	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_mar	profit_oct	-0.02815844330295339	0.9776660654150133	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_mar	profit_nov	1.0566442603307904	0.29657444615143974	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_mar	profit_dec	-1.3551832232010497	0.18243578360320228	p > 0.05	Fail to reject the null hypothesis, the means are equal
+
+profit_apr	profit_may	-2.6854932884022102	0.010248738805851086	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_apr	profit_jun	-2.8208856393396715	0.007218550398279229	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_apr	profit_jul	-3.173160037164755	0.0027836529436788436	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_apr	profit_aug	-2.9119087760214137	0.005674269280463941	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_apr	profit_sep	-1.238466210653784	0.22226190927545136	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_apr	profit_oct	1.1396688000999113	0.2607331344913263	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_apr	profit_nov	2.048501156978771	0.04664660172112696	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_apr	profit_dec	-0.6236893699930368	0.536126305548569	p > 0.05	Fail to reject the null hypothesis, the means are equal
+
+profit_may	profit_jun	-2.754986200475464	0.008571152352094729	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_may	profit_jul	-3.192035450369223	0.00264096868735224	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_may	profit_aug	-2.8842668307882855	0.00610716224739713	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_may	profit_sep	-0.03415234775069676	0.9729137112714659	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_may	profit_oct	1.969494004676385	0.05536057335079909	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_may	profit_nov	2.4914420428427126	0.016659269960157402	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_may	profit_dec	0.8286294385954351	0.41189009037875723	p > 0.05	Fail to reject the null hypothesis, the means are equal
+
+profit_jun	profit_jul	-2.604297557740205	0.012589463103403836	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jun	profit_aug	-1.8091488436804788	0.0774225026739928	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_jun	profit_sep	3.1139380763620164	0.0032800736444600384	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jun	profit_oct	2.564297502598322	0.013914385361819371	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jun	profit_nov	2.722646892916661	0.009317475218747873	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jun	profit_dec	2.2440949793848217	0.030027727058156987	p < 0.05	Reject the null hypothesis, the means are not equal
+
+profit_jul	profit_aug	0.1494872343449135	0.8818681238502057	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_jul	profit_sep	3.163008693215427	0.0028633722282105246	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jul	profit_oct	2.811255244668035	0.007403012042619708	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jul	profit_nov	2.9670061636856753	0.004895528931099457	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_jul	profit_dec	2.765446250457806	0.00834185137393251	p < 0.05	Reject the null hypothesis, the means are not equal
+
+profit_aug	profit_sep	3.5845204367833654	0.0008562585215048982	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_aug	profit_oct	2.948234254996806	0.005148865047715671	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_aug	profit_nov	2.991420846154908	0.004583477971940566	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_aug	profit_dec	2.679480446702566	0.010407277099052769	p < 0.05	Reject the null hypothesis, the means are not equal
+
+profit_sep	profit_oct	1.8345032403485773	0.0735042917230967	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_sep	profit_nov	2.1581560382621876	0.036543496120846536	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_sep	profit_dec	0.6524528571970855	0.5175820405866227	p > 0.05	Fail to reject the null hypothesis, the means are equal
+
+profit_oct	profit_nov	1.9303141125385186	0.06018019878530448	p > 0.05	Fail to reject the null hypothesis, the means are equal
+profit_oct	profit_dec	-1.6954198266708091	0.09722634764214065	p > 0.05	Fail to reject the null hypothesis, the means are equal
+
+profit_nov	profit_dec	-2.8384964640112216	0.006892227460414464	p < 0.05	Reject the null hypothesis, the means are not equal
+
+

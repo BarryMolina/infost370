@@ -1,0 +1,11 @@
+var1	var2	var1_mean	var2_mean	t	p
+profit_q1	profit_q2	93.18939393939394	100.9469696969697	-2.6705443610578175	0.008532723750860864	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_q1	profit_q3	93.18939393939394	110.41666666666667	-3.7903795391925565	0.00022849675104215603	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_q1	profit_q4	93.18939393939394	94.57575757575758	-0.544874957944255	0.5867659264872738	p > 0.05	Fail to reject the null hypothesis, the means are equal
+
+profit_q2	profit_q3	100.9469696969697	110.41666666666667	-2.994521556880079	0.003287322526992352	p < 0.05	Reject the null hypothesis, the means are not equal
+profit_q2	profit_q4	100.9469696969697	94.57575757575758	2.2574087693797997	0.025637640922186285	p < 0.05	Reject the null hypothesis, the means are not equal
+
+profit_q3	profit_q4	110.41666666666667	94.57575757575758	3.4590392150161238	0.0007319201481584429	p < 0.05	Reject the null hypothesis, the means are not equal
+
+
